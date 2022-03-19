@@ -1,3 +1,3 @@
 # ML_Projects
 
-Google Colab links to ML Projects
+Jupyter Notebooks from freeCodeCamp's Machine Learning challenges
